@@ -1,5 +1,10 @@
 # Praenox Aurum
 
+Web Praenox: https://praenox.com
+---
+Web Arlej Tech: https://arlejtech.com
+---
+
 Praenox Aurum is an Android biometric sound-synthesis application by Arlej Tech. It turns a
 user's manually entered sleep and recovery data into a personalized soundscape while tracking
 long-term patterns, context, recovery stability, and sleep debt.
@@ -40,8 +45,6 @@ The direct-download APK uses an offline lifetime licence. On first launch, the u
 Praenox Aurum Android licence supplied after purchase. Windows Praenox Pro and Developer licences
 are separate and do not activate the Android edition.
 
-Purchase information and licence help: [praenox.pages.dev](https://praenox.pages.dev)
-
 ## Requirements
 
 - Android 8.0 or newer (API 26+)
@@ -54,7 +57,3 @@ not diagnose, treat, or replace professional medical care.
 ## Developer
 
 Created by **Arlej Tech**.
-
-- Website: [arlejtech.pages.dev](https://arlejtech.pages.dev)
-- Praenox: [praenox.pages.dev](https://praenox.pages.dev)
-- Email: [arlej.tech@gmail.com](mailto:arlej.tech@gmail.com)
